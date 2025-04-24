@@ -18,6 +18,8 @@ Text File Hasher is a simple Python tool that calculates the MD5 and SHA-256 has
 
 - Python 3.x installed on your system
 
+- open dist folder and run the program
+
 ### Installation
 
 Clone the repository or download the ZIP file:
@@ -25,3 +27,4 @@ Clone the repository or download the ZIP file:
 ```bash
 git clone https://github.com/your-username/text-file-hasher.git
 cd text-file-hasher
+
